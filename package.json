@@ -1,0 +1,17 @@
+{
+  "name": "vue_vite_demo1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.0.0-rc.3",
+    "element-plus": "^1.0.1-beta.4",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.8",
+    "@vue/compiler-sfc": "^3.0.2"
+  }
+}
